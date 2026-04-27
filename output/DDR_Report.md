@@ -1,0 +1,86 @@
+# Detailed Diagnostic Report (DDR) - Property Inspection
+
+## 1. Property Issue Summary
+A comprehensive technical inspection was conducted at **Flat No. 103** to investigate reports of moisture ingress and structural distress. The diagnostic survey identified high-severity dampness at skirting levels, active leakage in the parking ceiling, and structural cracking on the external building envelope. Thermal imaging confirms these findings with significant temperature anomalies indicating active water presence.
+
+---
+
+## 2. Area-wise Observations
+
+### Area 1: Hall
+- **Observation**: Severe dampness observed at the skirting level across multiple walls.
+- **Supporting Evidence**: Typical hygroscopic salt action and paint peeling near the floor.
+- **Visual Evidence (Full View)**:
+  ![Hall Thermal and Site Scan](temp_data/images/Thermal_Images/page1_full.png)
+  *Scan RB02380X shows a hotspot of **28.8°C** indicating high moisture concentration.*
+
+### Area 2: Common Bedroom
+- **Observation**: Skirting level dampness consistent with the Hall.
+- **Root Cause Link**: Connected to the plumbing vulnerabilities in the adjacent Common Bathroom.
+- **Visual Evidence**:
+  ![Bedroom Dampness Photo](temp_data/images/Sample_Report/page11_full.png)
+
+### Area 3: Master Bedroom
+- **Observation**: Extensive dampness at the skirting level and visible **Efflorescence** (mineral deposits).
+- **Supporting Evidence**: Moisture is likely traversing from external cracks through the masonry.
+- **Visual Evidence (Full View)**:
+  ![MB Thermal and Site Scan](temp_data/images/Thermal_Images/page5_full.png)
+  *Hotspot of **25.5°C** (RB02403X) confirms active dampness in the external-facing wall.*
+
+### Area 4: Kitchen
+- **Observation**: Dampness at the skirting level.
+- **Visual Evidence**:
+  ![Kitchen Dampness](temp_data/images/Sample_Report/page16_full.png)
+
+### Area 5: Master Bedroom Bathroom
+- **Observation**: Tile hollowness and joint failure.
+- **Visual Evidence**:
+  ![Bathroom Tile Inspection](temp_data/images/Sample_Report/page15_full.png)
+
+### Area 6: Common Bathroom
+- **Observation**: Tile hollowness, plumbing issues, and mild ceiling dampness.
+- **Evidence**: Open tile joints and loose plumbing connections around the Nahani trap.
+- **Visual Evidence**:
+  ![Bathroom Plumbing Full View](temp_data/images/Sample_Report/page21_full.png)
+
+### Area 7: Parking Area (Below Flat 103)
+- **Observation**: Active water seepage and leakage at the parking ceiling.
+- **Technical Link**: This is a secondary effect of the plumbing failure in Flat 103's common bathroom.
+- **Visual Evidence**:
+  ![Parking Seepage Full View](temp_data/images/Sample_Report/page20_full.png)
+
+---
+
+## 3. Probable Root Cause
+The diagnostic investigation identifies three primary failure points:
+1.  **Plumbing System Failure**: Leakage in concealed plumbing lines and failed Nahani trap seals in the Common and Master bathrooms.
+2.  **Capillary Ingress**: Water entering through open tile joints and migrating via capillary action to adjacent room skirting.
+3.  **Envelope Breach**: Structural cracks in the external walls allowing rainwater to penetrate the building facade.
+
+---
+
+## 4. Severity Assessment
+**Assessment: HIGH (Critical)**
+- **Reasoning**: The presence of efflorescence indicates long-term moisture presence which leads to the carbonation of concrete. The active leakage in the parking ceiling is a critical concern as it directly impacts the RCC (Reinforced Cement Concrete) slab's durability and can lead to rebar corrosion.
+
+---
+
+## 5. Recommended Actions
+1.  **Immediate Re-grouting**: Seal all bathroom tile joints with epoxy-based grout to prevent surface water ingress.
+2.  **Plumbing Restoration**: Pressure test all concealed lines and replace damaged Nahani traps/brickbat coba layers.
+3.  **Structural Crack Sealing**: Treat external cracks with polymer-modified mortar and apply an elastomeric waterproofing coating to the external facade.
+4.  **Efflorescence Treatment**: Mechanically remove salts and treat internal walls with a salt-neutralizing agent before refinishing.
+
+---
+
+## 6. Additional Notes
+- Previous Structural Audit: **None Reported**.
+- Previous Repair Work: **None Reported**.
+- Inspection conducted under optimal afternoon lighting conditions.
+
+---
+
+## 7. Missing or Unclear Information
+- **Property Age**: Not Available (Field empty in source document).
+- **Existing Paint Specification**: Not Sure (Requires manufacturer data).
+- **Nahani Trap Condition**: Internal concealed sections require physical opening for full verification.
