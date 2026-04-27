@@ -51,8 +51,4 @@ The core logic resides in `report_logic.py`. The system processes two input stre
 
 The AI analyzes the spatial data to confirm if a visual stain is an *active* leak based on its thermal signature, then formats the finding into a professional client-ready document.
 
-## 🎥 Demo Video
-[Link to Loom Video](YOUR_LOOM_LINK_HERE)
 
-## 📄 License
-MIT License
